@@ -40,8 +40,17 @@ else{
 }
 
 // true
-const name3 = '0';
+const name3 = ' ';
 if(name3){
+    console.log('condition is  true');
+}
+else{
+    console.log("condition is false");
+}
+
+// true
+const name4 = '0';
+if(name4){
     console.log('condition is  true');
 }
 else{
