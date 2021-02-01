@@ -56,3 +56,10 @@ console.log(fun);
 let ages =  [2, 5, 9];
 console.log(ages[11]);
 
+// -----------------------------------
+// step -8
+function doSomething(x, y){
+    console.log(y);
+ }
+     
+ doSomething(32);
