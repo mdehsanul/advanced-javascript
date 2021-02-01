@@ -50,6 +50,7 @@ console.log(person.address);
 // step -6 (solution: don not use reserve word 'undefined')
 let fun = undefined;
 console.log(fun);
+
 //  ----------------------------------
 // step -7
 let ages =  [2, 5, 9];
